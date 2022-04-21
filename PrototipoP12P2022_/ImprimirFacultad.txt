@@ -1,0 +1,2 @@
+Codigo    Apellido        Nombre        Correo              Sueldo
+1         Denegado        fddsas        dsda64lü          1500.00

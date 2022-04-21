@@ -1,20 +1,21 @@
 # depslib dependency file v1.0
-1650568444 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\main.cpp
+1650575297 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\main.cpp
 	<iostream>
 	"datosUsuarioEdu.h"
 	"Usuariosedu.h"
+	"facultades.h"
 
-1650567801 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\src\datosusuarioedu.cpp
+1650569545 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\src\datosusuarioedu.cpp
 	"datosUsuarioEdu.h"
 	"Usuariosedu.h"
 	<cstring>
 	<iostream>
 
-1650569078 c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\include\datosusuarioedu.h
+1650569545 c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\include\datosusuarioedu.h
 
-1650565388 c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\include\usuariosedu.h
+1650569545 c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\include\usuariosedu.h
 
-1650568444 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\src\usuariosedu.cpp
+1650569545 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\src\usuariosedu.cpp
 	"Usuariosedu.h"
 	"datosUsuarioEdu.h"
 	<iostream>
@@ -23,4 +24,23 @@
 	<fstream>
 	<iomanip>
 	<cstdlib>
+
+1650578367 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\src\facultades.cpp
+	"facultades.h"
+	"datosfacultades.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1650570316 c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\include\facultades.h
+
+1650575249 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\src\datosfacultades.cpp
+	"datosfacultades.h"
+	"facultades.h"
+	<cstring>
+	<iostream>
+
+1650575224 c:\users\halld\proyectos\segundoparcial\prototipop12p2022_\include\datosfacultades.h
+	<iostream>
 
