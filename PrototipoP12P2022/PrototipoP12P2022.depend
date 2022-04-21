@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1650562686 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022\src\datosusuario.cpp
+	"DatosUsuario.h"
+	"Usuarios.h"
+	<cstring>
+	<iostream>
+
+1650562686 c:\users\halld\proyectos\segundoparcial\prototipop12p2022\include\datosusuario.h
+	<iostream>
+
+1650562382 c:\users\halld\proyectos\segundoparcial\prototipop12p2022\include\usuarios.h
+
+1650562686 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022\src\usuarios.cpp
+	"Usuarios.h"
+	"DatosUsuario.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1650562743 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022\src\catalogos.cpp
+	"Catalogos.h"
+
+1650562743 c:\users\halld\proyectos\segundoparcial\prototipop12p2022\include\catalogos.h
+
+1650562798 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022\src\informes.cpp
+	"Informes.h"
+
+1650562798 c:\users\halld\proyectos\segundoparcial\prototipop12p2022\include\informes.h
+
+1650562774 source:c:\users\halld\proyectos\segundoparcial\prototipop12p2022\src\procesos.cpp
+	"Procesos.h"
+
+1650562774 c:\users\halld\proyectos\segundoparcial\prototipop12p2022\include\procesos.h
+
